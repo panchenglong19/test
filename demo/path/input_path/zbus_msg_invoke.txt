@@ -1,0 +1,3 @@
+zbus_msg_invoke.msgid:1,2,3
+zbus_msg_invoke.send_buf:1,4,5
+zbus_msg_invoke.meta:2,3,4
